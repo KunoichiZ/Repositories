@@ -4,6 +4,8 @@
 
 <b>AuroraWright's Luma3DS</b>: https://github.com/AuroraWright/Luma3DS
 
+<b>AuroraWright's SafeA9LHInstaller</b>: https://github.com/AuroraWright/SafeA9LHInstaller
+
 <b>Homebrew Launcher Loader</b>: https://github.com/yellows8/hblauncher_loader/releases
 
 <b>JK's Save Manager</b>: https://github.com/J-D-K/JKSM/releases
@@ -37,3 +39,7 @@
 <b>OOT3DHAX</b>: https://github.com/yellows8/oot3dhax
 
 <b>FEFTwiddler</b>: https://github.com/Soaprman/FEFTwiddler
+
+<b>LumaLocaleSwitcher</b>: https://github.com/Possum/LumaLocaleSwitcher
+
+<b>AGBSave9</b>: https://github.com/alex34567/Agbsave9
