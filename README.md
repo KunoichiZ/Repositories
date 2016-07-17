@@ -12,7 +12,9 @@
 
 <b>FBI</b>: https://github.com/Steveice10/FBI/releases
 
-<b>BootNTR</b>: https://github.com/astronautlevel2/BootNTR/releases
+<b>astronautlevel's BootNTR</b>: https://github.com/astronautlevel2/BootNTR/releases
+
+<b>44670's BootNTR</b>: https://github.com/44670/BootNTR/releases
 
 <b>StarUpdater</b>: https://github.com/astronautlevel2/StarUpdater/releases
 
@@ -43,3 +45,5 @@
 <b>LumaLocaleSwitcher</b>: https://github.com/Possum/LumaLocaleSwitcher
 
 <b>AGBSave9</b>: https://github.com/alex34567/Agbsave9
+
+<b>RainThunder's fefates-tools</b>: https://github.com/RainThunder/fefates-tools
