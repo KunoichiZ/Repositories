@@ -47,3 +47,7 @@
 <b>AGBSave9</b>: https://github.com/alex34567/Agbsave9
 
 <b>RainThunder's fefates-tools</b>: https://github.com/RainThunder/fefates-tools
+
+<b>SirBeethoven's LeafHacks</b>: https://github.com/SirBeethoven/LeafHacks
+
+<b>kwsch's New Leaf Save Editor (NLSE)</b>: https://github.com/kwsch/NLSE
