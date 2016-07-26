@@ -16,6 +16,8 @@
 
 <b>44670's BootNTR</b>: https://github.com/44670/BootNTR/releases
 
+<b>Nanquitas's BootNTR</b>: https://github.com/Nanquitas/BootNTR/tree/my_version
+
 <b>StarUpdater</b>: https://github.com/astronautlevel2/StarUpdater/releases
 
 <b>freeShop</b>: https://github.com/Cruel/freeShop/releases
