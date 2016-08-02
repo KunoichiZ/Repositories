@@ -1,7 +1,7 @@
 # Repositories I need to keep an eye on
 
 <b><u>A9LH-related</u></b>
-EmuNAND9*
+EmuNAND9*/n
 
 <b><u>3DS Homebrew Related</u></b>
 Homebr3w*
