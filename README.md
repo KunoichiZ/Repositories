@@ -1,24 +1,24 @@
 # Repositories I need to keep an eye on
 
-<b><u>A9LH-related</u></b>
-EmuNAND9*/n
+<b><u>A9LH-related</u></b><br>
+EmuNAND9*<br>
 
-<b><u>3DS Homebrew Related</u></b>
-Homebr3w*
-CHMM2*
-braindump*
-TWLSaveTool*
-ihaveamac's 9.6-dbgen-xmls*
+<b><u>3DS Homebrew Related</u></b><br>
+Homebr3w*<br>
+CHMM2*<br>
+braindump*<br>
+TWLSaveTool*<br>
+ihaveamac's 9.6-dbgen-xmls*<br>
 
 <b><u>CIA Related</b></u>
 
-<b><u>Save Editors & Cheats/Modifiers</b></u>
-ACNL-NTR-Cheats*
-EventAssistant*
-ihaveamac's 3DS-rom-tools*
-kwsch's PKHeX*
-kwsch's pk3DS*
-d0k3's 3DS-Tools-Collection
+<b><u>Save Editors & Cheats/Modifiers</b></u><br>
+ACNL-NTR-Cheats*<br>
+EventAssistant*<br>
+ihaveamac's 3DS-rom-tools*<br>
+kwsch's PKHeX*<br>
+kwsch's pk3DS*<br>
+d0k3's 3DS-Tools-Collection<br>
 
 <b>Plailect's A9LH Guide</b>: https://github.com/Plailect/Guide/wiki
 
