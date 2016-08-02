@@ -1,6 +1,6 @@
 # Repositories I need to keep an eye on
 
-<b>Plailect's A9LH Guide</b>: https://github.com/Plailect/Guide
+<b>Plailect's A9LH Guide</b>: https://github.com/Plailect/Guide/wiki
 
 <b>AuroraWright's Luma3DS</b>: https://github.com/AuroraWright/Luma3DS
 
