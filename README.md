@@ -1,5 +1,25 @@
 # Repositories I need to keep an eye on
 
+<b><u>A9LH-related</u></b>
+EmuNAND9*
+
+<b><u>3DS Homebrew Related</u></b>
+Homebr3w*
+CHMM2*
+braindump*
+TWLSaveTool*
+ihaveamac's 9.6-dbgen-xmls*
+
+<b><u>CIA Related</b></u>
+
+<b><u>Save Editors & Cheats/Modifiers</b></u>
+ACNL-NTR-Cheats*
+EventAssistant*
+ihaveamac's 3DS-rom-tools*
+kwsch's PKHeX*
+kwsch's pk3DS*
+d0k3's 3DS-Tools-Collection
+
 <b>Plailect's A9LH Guide</b>: https://github.com/Plailect/Guide/wiki
 
 <b>AuroraWright's Luma3DS</b>: https://github.com/AuroraWright/Luma3DS
