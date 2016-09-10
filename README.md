@@ -11,7 +11,8 @@
 -[d0k3's Hourglass9](https://github.com/d0k3/Hourglass9)<br>
 -[d0k3's GodMod9](https://github.com/d0k3/GodMode9)<br>
 -[d0k3's OTPHelper](https://github.com/d0k3/OTPHelper)<br>
--[Plailect's A9LH Guide](https://github.com/Plailect/Guide/wiki)<br>
+-[Plailect's 3-Part A9LH Guide](https://github.com/Plailect/Guide/wiki) [NEW GUIDE]<br>
+-[Plailect's 5-Part A9LH GUide](https://github.com/Plailect/Guide_RedNAND/wiki) [OLD GUIDE]<br>
 -[Possum's LumaLocaleSwitcher](https://github.com/Possum/LumaLocaleSwitcher)<br>
 
 <b>3DS Homebrew Related</b><br>
